@@ -1,4 +1,31 @@
-* {
+body {
     color: white;
     background-color: rgb(0, 174, 255);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+h1 {
+    
+    color: white;
+    
+    margin: 0.5em;
+    padding: 0.5em;
+    font-size: 3em;
+}
+
+.history {
+    text-align: center;
+    color: black;
+    background-color: white;
+    
+    margin: 2em;
+    padding: 0.2em;
+}
+.backBtn {
+    color: black;
+    font-weight: bold;
+}
+
+.ayudas {
+    padding-left: 2.5em;
+}
