@@ -39,6 +39,10 @@ h1 {
     font-weight: bold;
 }
 
+.pckPara {
+    padding: 3em;
+}
+
 .ayudas {
     padding-left: 2.5em;
 }
